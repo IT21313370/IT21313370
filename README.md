@@ -1,7 +1,7 @@
 # Dhananjaya Dissanayake
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2" width="280" height="220" alt="description">
+    <img src="https://github.com/user-attachments/assets/b13fe3fc-ce36-40f0-a5fe-5fae23ce08f2" width="300" height="250" alt="description">
 </p>
 
 
