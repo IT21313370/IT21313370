@@ -84,9 +84,3 @@ I'm a passionate machine learning engineer and software developer dedicated to t
 
 ---
 
-## 📝 Recent Blog Posts
-
-1. **Optimizing AI Models with Flask for Seamless Backend Integration**
-2. **Leveraging HR Analytics for Workforce Insights with Data Mining Techniques**
-
-⭐️ From Dhananjaya Dissanayake
